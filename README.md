@@ -1,7 +1,7 @@
 # Python-Simple-Countdown
 [![release](https://img.shields.io/badge/release-v1.0-red.svg?style=flat-square)]()
 
-This is a basic Live Code Editor which supports html css Javascript. You can code 
+This is a simple python countdown app
 
 Development
 -----------
